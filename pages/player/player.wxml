@@ -1,5 +1,5 @@
 <view>
-    <live-player id="player" src="rtmp://" bindstatechange="statechange" binderror="error" />
+    <live-player id="player" src="https://www.douyu.com/6508008" bindstatechange="statechange" binderror="error" />
 
     <view class="btn-box">
       <button bindtap="bindPlay" type="primary">播放</button>
